@@ -1,7 +1,7 @@
 # Text-Analysis-and-Entity-Resolution
 
 
-Entity resolution is a common, yet difficult problem in data cleaning and integration. In this lab exercise, we will use powerful and scalable text analysis techniques to perform entity resolution across two data sets of commercial products.
+Entity resolution is a common, yet difficult problem in data cleaning and integration. In this project, we will use powerful and scalable text analysis techniques to perform entity resolution across two data sets of commercial products.
 
 Entity Resolution, or "Record linkage" is the term used by statisticians, epidemiologists, and historians, among others, to describe the process of joining records from one data source with another that describe the same entity. Our terms with the same meaning include,  "entity disambiguation/linking", "duplicate detection", "deduplication", "record matching", "(reference) reconciliation", "object identification", "data/information integration", and "conflation".
 
